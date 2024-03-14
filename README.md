@@ -21,7 +21,8 @@
 
 <br/>
 
-<!-- Hier cooles Bild einfügen -->
-<!-- ![Beschreibendes Bild deiner Arbeit](Link zu dem Bild) -->
+<!-- Bild zum Beispiel so 
+![Beschreibendes Bild deiner Arbeit](https://www.frontiersin.org/files/Articles/1366165/fnins-18-1366165-HTML-r1/image_m/fnins-18-1366165-g001.jpg) -->
+
 
 <br/><br/> <!-- Am Ende des Abschnittes werden zwei leere Zeilen eingefügt um etwas Abstand zwischen den Unterpunkten zu generieren -->
