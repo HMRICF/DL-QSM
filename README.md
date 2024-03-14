@@ -17,7 +17,7 @@
 
 <!-- Hier eine kurze Information darüber was in diesem Projekt passiert. -->
 
-[source code (github)](adaptive-convolution-for-qsm/README.md) | [Frontiers in Neuroscience (full paper)](https://doi.org/10.3389/fnins.2024.1366165)
+[source code (github)](adaptive-convolution-for-qsm/) | [Frontiers in Neuroscience (full paper)](https://doi.org/10.3389/fnins.2024.1366165)
 
 <br/>
 
