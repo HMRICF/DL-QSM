@@ -17,8 +17,8 @@
 
 <!-- Hier eine kurze Information darüber was in diesem Projekt passiert. -->
 
- | [Frontiers in Neuroscience (full paper)](https://doi.org/10.3389/fnins.2024.1366165)
-<!-- [source code (github)](AdaptiveConvolutionforQSM/README.md) -->
+[source code (github)](AdaptiveConvolutionQSM/) | [Frontiers in Neuroscience (full paper)](https://doi.org/10.3389/fnins.2024.1366165)
+
 <br/>
 
 <!-- Hier cooles Bild einfügen -->
