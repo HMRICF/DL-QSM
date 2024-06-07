@@ -1,5 +1,5 @@
 <!-- Hier Titel des Repositories eintragen -->
-# DL-QSM
+# Welcome to our repository of deep learning approaches for QSM!
 <!-- Hier allgemeine Informationen über das Repo eingeben, zum Beispiel Autor, ... -->
 
 <br/><br/> <!-- Am Ende des Abschnittes werden zwei leere Zeilen eingefügt um etwas Abstand zwischen den Unterpunkten zu generieren -->
