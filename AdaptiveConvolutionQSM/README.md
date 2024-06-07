@@ -15,7 +15,9 @@ This repository provides the official implementation of the Adaptive U-Net for Q
 Figure 1: Schematic overview of adaptive convolution, adaptive layers and the used 3D U-Net architecture. (A) The filter manifold compresses the relationship between the side information $\vec{s}$ and the changes in the image onto a low dimensional filter manifold in the high dimensional filter weight space. By changing the side information, the filter kernel values itself change, sweeping along the smooth filter manifold. (B) Adaptive convolutional layers are built from the Filter Manifold Network (FMN) consisting of 4 fully connected linear layers that compute the weights *w* of the respective convolution operation of the input feature maps *X*, yielding the output feature maps *Y* (blue block). (C) The 3D U-Net is composed of an encoder (orange blocks) and a decoder (turquoise blocks) with the adaptive convolution layer (dashed red arrow) included in the first encoding stage (blue block).
 
 # Results on in vivo brain data
+![](Figures/Figure2.png)
 
+Figure 2: Comparison of the different network models on in vivo brain data sets with different acquisition parameters.
 
 # Instructions 
 
