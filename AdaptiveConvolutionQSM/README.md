@@ -2,7 +2,7 @@
 
 This repository provides the official implementation of the Adaptive U-Net for QSM-based field-to-susceptibility inversion leveraging a-priori information.
 
-**Paper:** [Frontiers in Neuroscience](https://doi.org/10.3389/fnins.2024.1366165  )
+**Paper:** [Frontiers in Neuroscience](https://doi.org/10.3389/fnins.2024.1366165   )
 
 
 # Adaptive Convolution
@@ -18,7 +18,7 @@ Figure 2: Comparison of the different network models on in vivo brain data sets 
 
 # Instructions 
 
-The implementation of the Adaptive UNet is stored here: [source code](AdaptiveConvolutionQSM/Model)
+The implementation of the Adaptive UNet is stored here: [source code](AdaptiveConvolutionQSM/Model/)
 
 The model expects a 5D pytorch tensor of the image and a 1D side information tensor as input. 
 
@@ -49,4 +49,4 @@ For further information, data or in case of problems, please contact me by e-mai
 Please cite this paper when using the Adaptive U-Net: 
 
     Graf S, Wohlgemuth WA and Deistung A (2024). Incorporating a-priori information in deep learning models 
-    for quantitative susceptibility mapping via adaptive convolution. Front. Neurosci. 18:1366165. doi: 10.3389/fnins.2024.1366165        
+    for quantitative susceptibility mapping via adaptive convolution. Front. Neurosci. 18:1366165. doi: 10.3389/fnins.2024.1366165         
