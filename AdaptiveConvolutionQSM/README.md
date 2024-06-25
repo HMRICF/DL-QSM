@@ -2,7 +2,7 @@
 
 This repository provides the official implementation of the Adaptive U-Net for QSM-based field-to-susceptibility inversion leveraging a-priori information.
 
-**Paper:** [Frontiers in Neuroscience](https://doi.org/10.3389/fnins.2024.1366165    )
+**Paper:** [Frontiers in Neuroscience](https://doi.org/10.3389/fnins.2024.1366165     )
 
 
 # Adaptive Convolution
@@ -18,7 +18,7 @@ Figure 2: Comparison of the different network models on in vivo brain data sets 
 
 # Instructions 
 
-The implementation of the Adaptive UNet is stored here: [source code](Model/)
+The implementation of the Adaptive U-Net is stored here: [source code](Model/)
 
 The model expects a 5D pytorch tensor of the image and a 1D side information tensor as input. 
 
@@ -27,7 +27,7 @@ image = torch.rand((1, 1, 320, 320, 320))
 side_information = torch.Tensor((1, 1, 1, 0, 0, 1))
 ```
 
-The Adaptive UNet can be used with a residual connection to enable residual learning (as performed in the paper). Please specify the number of initial channels. The recommended default setting is 16 initial channels.
+The Adaptive U-Net can be used with a residual connection to enable residual learning (as performed in the paper). Please specify the number of initial channels. The recommended default setting is 16 initial channels.
 
 ```
 model = AdaptiveUNet3dELU(16, 'True') # set to 'False' to remove the residual connection
@@ -41,7 +41,7 @@ susceptiblity = susceptiblity.detach().numpy().reshape(320,320,320)
 nib.save(nib.Nifti1Image(susceptibility, None), os.path.join(PATH_To_FOLDER, susceptibilit.nii.gz)) # exchange None with header and affine to attain the original orientation 
 ```
 
-Include the Adaptive UNet in your exisiting training script to newly train the model for your data. 
+Include the Adaptive U-Net in your exisiting training script to newly train the model for your data. 
 For further information, data or in case of problems, please contact me by e-mail at simon.graf@uk-halle.de
 
 
@@ -49,4 +49,4 @@ For further information, data or in case of problems, please contact me by e-mai
 Please cite this paper when using the Adaptive U-Net: 
 
     Graf S, Wohlgemuth WA and Deistung A (2024). Incorporating a-priori information in deep learning models 
-    for quantitative susceptibility mapping via adaptive convolution. Front. Neurosci. 18:1366165. doi: 10.3389/fnins.2024.1366165          
+    for quantitative susceptibility mapping via adaptive convolution. Front. Neurosci. 18:1366165. doi: 10.3389/fnins.2024.1366165           
