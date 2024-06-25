@@ -252,4 +252,3 @@ if __name__ == '__main__':
     print(number_parameter(model))
     print(model.eval())
     out = model(image, side_information)
-    # print(model(image))
