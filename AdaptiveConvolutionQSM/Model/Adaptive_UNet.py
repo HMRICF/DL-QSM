@@ -1,6 +1,6 @@
 """
 Implementation of the Adaptive U-Net using Adaptive Convolution to include acquisition parameters
-(Voxel-Size, FoV-Orientation) in the depp learning model. The Filter Manifold Network (FMN) computes the convolution
+(Voxel-Size, FoV-Orientation) in the deep learning model. The Filter Manifold Network (FMN) computes the convolution
 filter kernel values based on the presented additional information.
 
 
