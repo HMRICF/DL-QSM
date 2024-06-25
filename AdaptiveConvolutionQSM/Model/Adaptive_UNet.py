@@ -108,7 +108,7 @@ class LastConvBlockELU(nn.Module):
 class FMNetworkELU(nn.Module):
     """
     THis class defines the FMN network, a fully-connected feed-forward network that receives a certain side information
-    vector as input. The output of the network are the weights for the 3d convolution operation. ELU activation is used.
+    tensor as input. The output of the network are the weights for the 3d convolution operation. ELU activation is used.
     """
 
     def __init__(self, initial_size, size_weights):
@@ -186,7 +186,7 @@ class AdaptiveConvBlock(nn.Module):
 
 class AdaptiveUNet3dELU(nn.Module):
     """
-    Adaptive U-NEt with ELU activation
+    Adaptive U-Net with ELU activation
     Res parameter enables residual learning (res = True)
     """
 
