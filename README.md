@@ -13,11 +13,10 @@
 
 # Incorporating a-priori information in deep learning models for quantitative susceptibility mapping via adaptive convolution
 
-**The code will be available soon.**
 
 <!-- Hier eine kurze Information darüber was in diesem Projekt passiert. -->
 
-[source code (github)](AdaptiveConvolutionQSM/) | [Frontiers in Neuroscience (full paper)](https://doi.org/10.3389/fnins.2024.1366165)
+[source code (github)](AdaptiveConvolutionQSM/) | [Frontiers in Neuroscience (full paper)](https://doi.org/10.3389/fnins.2024.1366165 )
 
 <br/>
 
