@@ -20,6 +20,7 @@
 
 [source code (github)](AdaptiveConvolutionQSM/) | [Frontiers in Neuroscience (full paper)](https://doi.org/10.3389/fnins.2024.1366165 )
 
+![Adaptive Convolution Scheme](AdaptiveConvolutionQSM/Figures/Figure1.png)
 <br/>
 
 # From Action to Anatomy-Countering Data Scarcity with Video-Based Training for Ill-Posed MRI Problems
