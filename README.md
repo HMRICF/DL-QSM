@@ -21,13 +21,12 @@
 [source code (github)](AdaptiveConvolutionQSM/) | [Frontiers in Neuroscience (full paper)](https://doi.org/10.3389/fnins.2024.1366165 )
 
 <br/>
+
 # From Action to Anatomy - Countering Data Scarcity with Video-Based Training for Ill-Posed MRI Problems
-![Adaptive Convolution Scheme](AdaptiveConvolutionQSM/Figures/Figure1.png)
 
 <!-- Bild zum Beispiel so 
 ![Beschreibendes Bild deiner Arbeit](https://www.frontiersin.org/files/Articles/1366165/fnins-18-1366165-HTML-r1/image_m/fnins-18-1366165-g001.jpg) -->
 
-<br/>
-[source code: available soon | [Machine Learning in Medical Imaging (MLMI 2025) at MICCAI2025 (full paper)](https://doi.org/10.1007/978-3-032-09513-8_12)
+[source code: available soon] | [Machine Learning in Medical Imaging (MLMI 2025) at MICCAI2025 (full paper)](https://doi.org/10.1007/978-3-032-09513-8_12)
 
 <br/><br/> <!-- Am Ende des Abschnittes werden zwei leere Zeilen eingefügt um etwas Abstand zwischen den Unterpunkten zu generieren -->
