@@ -8,6 +8,8 @@
 # Projects
 [Incorporating a-priori information in deep learning models for quantitative susceptibility mapping via adaptive convolution](#incorporating-a-priori-information-in-deep-learning-models-for-quantitative-susceptibility-mapping-via-adaptive-convolution)
 
+[From Action to Anatomy - Countering Data Scarcity with Video-Based Training for Ill-Posed MRI Problems](#From Action to Anatomy - Countering Data Scarcity with Video-Based Training for Ill-Posed MRI Problems)
+
 <br/><br/> <!-- Am Ende des Abschnittes werden zwei leere Zeilen eingefügt um etwas Abstand zwischen den Unterpunkten zu generieren -->
 
 
@@ -25,5 +27,7 @@
 <!-- Bild zum Beispiel so 
 ![Beschreibendes Bild deiner Arbeit](https://www.frontiersin.org/files/Articles/1366165/fnins-18-1366165-HTML-r1/image_m/fnins-18-1366165-g001.jpg) -->
 
+<br/>
+[source code: available soon | [Machine Learning in Medical Imaging (MLMI 2025) at MICCAI2025 (full paper)](https://doi.org/10.1007/978-3-032-09513-8_12)
 
 <br/><br/> <!-- Am Ende des Abschnittes werden zwei leere Zeilen eingefügt um etwas Abstand zwischen den Unterpunkten zu generieren -->
